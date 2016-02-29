@@ -1,0 +1,52 @@
+
+
+
+table {
+  width: 100%;
+  color: blue;
+}
+
+
+h1 {
+  text-align: center;
+  color: red;
+
+}
+h2{
+  text-align: center;
+  font-size: 40px;
+  font-family: Verdana;
+
+
+}
+p {
+  text-align: center;
+  font-size: 50px;
+
+}
+table head{
+  text-align: center;
+
+}
+table{
+  text-align: center;
+}
+ul{
+  text-align: center;
+  font-size: 55px;
+}
+li{
+  text-align: center;
+  font-size:30px;
+  color: green;
+}
+body{
+  background-color: grey;
+}
+.steak{
+  width: 400px;
+  border: 5px solid red;
+}
+p strong em {
+text-decoration: underline;
+}
